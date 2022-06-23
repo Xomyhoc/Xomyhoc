@@ -1,4 +1,4 @@
-<img src="путь к файлу">
+<img src="https://raw.githubusercontent.com/Xomyhoc/Xomyhoc/main/header.png">
 
 # 💫 About Me:
 ❤️ Business Workflow Automation Specialist at SPLAT<br>Middle Jira/Confluence Administrator<br>Groovy/C# Junior Developer
